@@ -11,7 +11,7 @@ Front-end Student | HTML5 | CSS3 | Sass| Scss | Vue |
 
 ## Contacts
 
-- **Telegram:** [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height = > @Petryakov_sergey] (https://t.me/Petryakov_sergey)
-[image]({https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"})
-- **Email:** [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">] petryakov.2501@gmail.com
+- **Telegram:**  @Petryakov_sergey (https://t.me/Petryakov_sergey)
+
+- **Email:**  petryakov.2501@gmail.com
 
