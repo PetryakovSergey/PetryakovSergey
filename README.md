@@ -10,7 +10,7 @@ Front-end Student | HTML5 | CSS3 | Sass| Scss | Vue |
 - [Home interior Blog SPA](https://petryakovsergey.github.io/interno1.0.0/)
 - [My dream car slider](https://petryakovsergey.github.io/slider_mercedes/)
 - [Colorful track game](https://petryakovsergey.github.io/animated_desk/)
-- [Healty life Rosurces cards](https://petryakovsergey.github.io/slider_healthy_life/)
+- [Healty life Rosources cards](https://petryakovsergey.github.io/slider_healthy_life/)
 - [Circle shooting game](https://petryakovsergey.github.io/game_shooter/)
 
 ## Contacts
